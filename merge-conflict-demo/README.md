@@ -1,1 +1,2 @@
-green
+My favorite color is:
+red
